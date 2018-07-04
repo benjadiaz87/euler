@@ -12,8 +12,3 @@ def getDivisbleLimit(limit):
 
 
 print(getDivisbleLimit(20))
-
-
-
-
-        
