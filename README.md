@@ -5,4 +5,4 @@ This is a repository with python scripts to solve project Euler problems. I will
 ![alt text](https://uaidiag131.blob.core.windows.net/github/euler.png)
 
 
-You can find the problemas here: httṕs://projecteuler.net/archives
+You can find the problemas here: [Link to Project Euler Problems](httṕs://projecteuler.net/archives)
